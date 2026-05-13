@@ -1,4 +1,4 @@
-# 
+# MEV-optimized Bot for new token sniper bot | trailing-stop & MEV-detection offers the most advanced new token sniper bot, with trailing-stop and MEV-detection. Ideal for
 
 
 
